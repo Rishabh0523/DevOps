@@ -39,3 +39,5 @@ Operating system is a bridge between the Software and Hardware to communicate wi
 ● nproc : To know about No of cpu 
 ● df -h : To know disk size .
 ● top : To know about complete info of cpu , size and storage .
+● man ( man ls ) : mannual for any command .
+
