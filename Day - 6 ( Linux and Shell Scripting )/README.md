@@ -1,9 +1,6 @@
 
 # Linux and Shell Scripting
 
-
-
-
 ## What is Operating System ?
 
 Operating system is a bridge between the Software and Hardware to communicate with each other . 
@@ -16,5 +13,6 @@ Operating system is a bridge between the Software and Hardware to communicate wi
 
 ## Why Linux is mostly used and why it is most famous Operating system among all Operating system ?
 
-Linux is a free OS as well as open source platform .
-Linux is very secure .
+● Linux is a free OS as well as open source platform .
+● Linux is very secure .
+● It is very fast .
