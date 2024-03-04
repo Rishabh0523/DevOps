@@ -16,3 +16,12 @@ Operating system is a bridge between the Software and Hardware to communicate wi
 ● Linux is a free OS as well as open source platform .
 ● Linux is very secure .
 ● It is very fast .
+
+📕 Kernal is heart of the operating system .
+
+🔖 Kernal is responsible for following reasons :
+
+○ Device management 
+○ Memory Management 
+○ Process Management 
+○ Handling system Calls
