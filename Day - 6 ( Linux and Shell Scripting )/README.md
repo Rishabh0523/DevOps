@@ -25,3 +25,12 @@ Operating system is a bridge between the Software and Hardware to communicate wi
 ○ Memory Management 
 ○ Process Management 
 ○ Handling system Calls
+
+● ls : list all the file
+● pwd : present working directory
+● cd : chage directory
+● cd bundle/ : We are going in bundle file
+● cd .. : Go back to one directory to another directory
+● ls -ltr : We can list the file with properties , list you all files according to the order of time in which they were created.
+● touch : We can just create the file .
+● vi : We cn create a file as well as we can write inside this file .
