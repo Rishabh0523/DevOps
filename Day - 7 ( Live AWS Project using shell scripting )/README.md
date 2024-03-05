@@ -42,7 +42,7 @@ AWS IAM Users
 
 echo "Print list of s3 bucktes "
 
-aws s3 ls
+◦ aws s3 ls
 
 ###
 
@@ -50,7 +50,7 @@ aws s3 ls
 
 echo "Print list of ec2 instances "
 
-aws ec2 describe-instances
+◦ aws ec2 describe-instances
 
 ###
 
@@ -58,7 +58,7 @@ aws ec2 describe-instances
 
 echo "Print list of lambda functions "
 
-aws lambda list-function
+◦ aws lambda list-function
 
 ###
 
@@ -66,7 +66,7 @@ aws lambda list-function
 
 echo "Print list of IAM Users bucktes "
 
-aws IAM list-users
+◦ aws IAM list-users
 
 
 
