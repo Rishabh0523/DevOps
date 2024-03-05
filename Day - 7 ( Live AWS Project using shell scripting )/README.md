@@ -2,7 +2,7 @@
 # LIVE AWS project using shell Scripting
 
 
-## Write a script to report the usage of AWS in your project ??
+## 🔖 Write a script to report the usage of AWS in your project ??
 
 
 AWS cli Install :
