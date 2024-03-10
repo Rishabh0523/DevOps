@@ -36,7 +36,7 @@ To create a new virtual machine instance on AWS, follow these steps:
 
 ![App Screenshot](https://developer.rhino3d.com/images/AWS_Setup_13.png)
 
-◦ At last we will get succes message .
+◦ At last we will get success message .
 
 ![App Screenshot](https://developer.rhino3d.com/images/AWS_Setup_15.png)
 
