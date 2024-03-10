@@ -9,9 +9,6 @@ Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure,
 # 📕 How to Launch the instance :
 
 
-
-## How to launch the instance :
-
 To create a new virtual machine instance on AWS, follow these steps:
 
 ◦ Open the Amazon EC2 console.
