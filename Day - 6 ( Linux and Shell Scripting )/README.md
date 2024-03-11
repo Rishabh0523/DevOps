@@ -27,7 +27,9 @@ Operating system is a bridge between the Software and Hardware to communicate wi
 ○ Handling system Calls
 
 ● ls : list all the file
+
 ● pwd : Present Working Directory
+
 ● cd : chage directory
 ● cd bundle/ : We are going in bundle file
 ● cd .. : Go back to one directory to another directory
