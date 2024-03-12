@@ -66,7 +66,7 @@ echo "Print list of lambda functions "
 
 echo "Print list of IAM Users bucktes "
 
-◦ aws IAM list-users
+◦ aws IAM list-users .
 
 
 
