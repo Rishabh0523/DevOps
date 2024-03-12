@@ -3,4 +3,4 @@
 
 
 
-Learn the git and github commands .
+Learn the git and github commands in a deep  .
