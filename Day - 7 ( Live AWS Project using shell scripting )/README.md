@@ -56,7 +56,7 @@ echo "Print list of ec2 instances "
 
 ### list Lambda
 
-echo "Print list of lambda functions "
+echo " Print list of lambda functions "
 
 ◦ aws lambda list-function
 
