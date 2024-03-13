@@ -36,7 +36,7 @@ AWS Lambda
 AWS IAM Users
 
 
-### 📕 Steps to follow :
+### 📕 Steps to follows :
 
 ###  List S3 buckets
 
