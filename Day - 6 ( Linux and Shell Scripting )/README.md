@@ -3,7 +3,7 @@
 
 ## What is Operating System ?
 
-Operating system is a bridge between the Software and Hardware to communicate with each other . 
+Operating System is a bridge between the Software and Hardware to communicate with each other . 
 
 ## Hardware vs Software
 
