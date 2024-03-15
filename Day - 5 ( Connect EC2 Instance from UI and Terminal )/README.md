@@ -30,7 +30,7 @@ so to login in this terminal we have to provide the path of our
 
 ● pem file 
 
-as well as the public id of our instances
+as well as the public id of our Instances
 
 
 
