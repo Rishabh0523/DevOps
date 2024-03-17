@@ -8,7 +8,7 @@ Virtual machine technology is used for many use cases across on-premises and clo
 
 # What are virtual machines used for ?
 
-Virtual machines (VMs) allow a business to run an operating system that behaves like a completely separate computer in an app window on a desktop. VMs may be deployed to accommodate different levels of processing power needs, to run software that requires a different operating system, or to test applications in a safe, sandboxed environment.
+Virtual machines (VMs) allow a business to run an Operating system that behaves like a completely separate computer in an app window on a desktop. VMs may be deployed to accommodate different levels of processing power needs, to run software that requires a different operating system, or to test applications in a safe, sandboxed environment.
 
 
 #  How do virtual machines work ?
