@@ -37,7 +37,7 @@ Operating System is a bridge between the Software and Hardware to communicate wi
 ● touch : We can just create the file .
 ● vi : We cn create a file as well as we can write inside this file .
 ● rm -r : remove the directory .
-● free -g : To know about what is the memory of our server .
+● free -g : To know about what is the Memory of our server .
 ● nproc : To know about No of cpu 
 ● df -h : To know disk size .
 ● top : To know about complete info of cpu , size and storage .
