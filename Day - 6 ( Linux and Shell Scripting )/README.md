@@ -17,7 +17,7 @@ Operating System is a bridge between the Software and Hardware to communicate wi
 ● Linux is very secure .
 ● It is very fast .
 
-📕 Kernal is heart of the operating system .
+📕 Kernal is Heart of the operating system .
 
 🔖 Kernal is responsible for following reasons :
 
