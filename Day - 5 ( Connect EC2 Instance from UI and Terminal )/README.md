@@ -18,7 +18,7 @@ when we will do
 
 ● ls 
 
-then we can see that rishabh file is created .
+then we can see that rishabh file is Created .
 
 ## Now to connect EC2 instances to our terminal 
 we will download 
