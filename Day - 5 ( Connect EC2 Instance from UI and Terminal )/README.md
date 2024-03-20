@@ -10,7 +10,7 @@ First of all we will login to our AWS console after that we have created a Insta
 ![App Screenshot](https://media.licdn.com/dms/image/D5622AQEwSQrEuI8w2Q/feedshare-shrink_2048_1536/0/1707156416022?e=1709769600&v=beta&t=QTWA-AclBpin54x6Pibn-Huf45LJ_Y6j-molb6BQ1cQ)
 
 
-After that AWS Console will opend , then we can create a file name by the Command ,
+After that AWS Console will opend , then we can Create a file name by the Command ,
 
  ● touch rishabh ,
 
