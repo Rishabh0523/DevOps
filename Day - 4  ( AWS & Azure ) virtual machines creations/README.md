@@ -17,7 +17,7 @@ To create a new virtual machine instance on AWS, follow these steps:
 
 ◦ Provide a name for the VM instance. For this tutorial, we’ll use the name “test”.
 
-◦ Under the section titled Application and OS Images, click on the ubuntu button under the Quick Start tab. Under the Amazon Machine Image (AMI) section there should be a drop-down menu listing all of the available machine images. Select the AMI for ubuntu Server 22.04 Base.
+◦ Under the section titled Application and OS Images, click on the ubuntu button under the Quick Start tab. Under the Amazon Machine Image (AMI) section there should be a drop-down menu listing all of the available Machine images. Select the AMI for ubuntu Server 22.04 Base.
 
 
 
