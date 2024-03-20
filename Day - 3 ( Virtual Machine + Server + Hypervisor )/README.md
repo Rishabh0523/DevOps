@@ -15,7 +15,7 @@ Virtual machines (VMs) allow a business to run an Operating system that behave
 The Virtual machine runs as a process in an application window, similar to any other application, on the operating system of the physical machine. Key files that make up a virtual machine include a log file, NVRAM setting file, virtual disk file and configuration file. 
 
 # 🔖 What is a Server ?
-A server is a hardware device or software that processes requests Sent over a network and replies to them. A client is the device that submits a request and waits for a response from the server. The computer system that accepts requests for Online files and transmits those files to the client is referred to as a “server” in the context of the Internet.
+A server is a hardware device or software that processes requests Sent over a network and replies to them. A client is the device that submits a request and waits for a response from the server. The Computer system that accepts requests for Online files and transmits those files to the client is referred to as a “server” in the context of the Internet.
 
 
 
