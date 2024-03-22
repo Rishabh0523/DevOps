@@ -24,7 +24,7 @@ Planning is a crucial step in everything, just as in software development. In th
 
 
 ## Stage-2: Defining Requirements
-In this stage, all the requirements for the target software are specified. These requirements get approval from customers, market analysts, and stakeholders. 
+In this stage, all the requirements for the target Software are specified. These requirements get approval from customers, market analysts, and stakeholders. 
 This is fulfilled by utilizing SRS (Software Requirement Specification). This is a sort of document that specifies all those things that need to be defined and created during the entire project cycle. 
 
 
