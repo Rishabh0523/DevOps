@@ -13,7 +13,7 @@ To create a new virtual machine instance on AWS, follow these steps:
 
 ◦ Open the Amazon EC2 console.
 
-◦ From the EC2 console dashboard, select Launch Instance.
+◦ From the EC2 Console dashboard, select Launch Instance.
 
 ◦ Provide a name for the VM instance. For this tutorial, we’ll use the name “test”.
 
