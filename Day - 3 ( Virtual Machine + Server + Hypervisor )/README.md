@@ -6,7 +6,7 @@ A Virtual Machine (VM) is a compute resource that uses software instead of a p
 Virtual machine technology is used for many use cases across on-premises and cloud environments. More recently, public cloud services are using virtual machines to provide virtual application resources to multiple users at once, for even more cost efficient and flexible compute.  
 
 
-# What are virtual machines used for ?
+# What are virtual Machines used for ?
 
 Virtual machines (VMs) allow a business to run an Operating system that behaves like a completely separate Computer in an app window on a desktop. VMs may be deployed to accommodate different levels of processing power needs, to run software that requires a different operating system, or to test applications in a safe, sandboxed environment.
 
