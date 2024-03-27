@@ -24,7 +24,7 @@ Operating System is a bridge between the Software and Hardware to communicate wi
 ○ Device management 
 ○ Memory Management 
 ○ Process Management 
-○ Handling system Calls
+○ Handling System Calls
 
 ● ls : list all the file
 
