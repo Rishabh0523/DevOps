@@ -4,7 +4,7 @@
 ## How to connect EC2 instances from UI 
 
 
-First of all we will Login to our AWS console after that we have created a Instances named test , so we will start the Instance after getting the message of success we will connect this instances by Clicking on id .
+First of all we will Login to our AWS console after that we have created a Instances named test , so we will start the Instance after getting the message of Success we will connect this instances by Clicking on id .
 
 
 ![App Screenshot](https://media.licdn.com/dms/image/D5622AQEwSQrEuI8w2Q/feedshare-shrink_2048_1536/0/1707156416022?e=1709769600&v=beta&t=QTWA-AclBpin54x6Pibn-Huf45LJ_Y6j-molb6BQ1cQ)
