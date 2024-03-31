@@ -21,7 +21,7 @@ Operating System is a bridge between the Software and Hardware to communicate wi
 
 🔖 Kernal is responsible for following reasons :
 
-○ Device management 
+○ Device Management 
 ○ Memory Management 
 ○ Process Management 
 ○ Handling System Calls
