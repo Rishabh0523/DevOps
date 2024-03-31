@@ -14,7 +14,7 @@ Operating System is a bridge between the Software and Hardware to communicate wi
 ## Why Linux is mostly used and why it is most famous Operating System among all Operating system ?
 
 ● Linux is a free OS as well as open source platform .
-● Linux is very secure .
+● Linux is very Secure .
 ● It is very fast .
 
 📕 Kernal is Heart of the Operating System .
