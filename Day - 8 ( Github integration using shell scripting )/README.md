@@ -21,7 +21,7 @@ API_URL="https://api.github.com"
 USERNAME=$username
 TOKEN=$token
 
-# User and Repository information
+# User and Repository Information
 REPO_OWNER=$1
 REPO_NAME=$2
 
