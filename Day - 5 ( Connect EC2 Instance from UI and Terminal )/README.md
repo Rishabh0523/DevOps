@@ -42,8 +42,8 @@ as well as the public Id of our Instances
 
 ● Open iTerm
 
-● Location of file ( chmod 600 /Users/rishabhraj/Downloads/test111.pem )
+● Location of file ( chmod 600 /Users/rishabhraj/Downloads/key name )
 
-● Location of file + public ipv4 address ( ssh -i /Users/rishabhraj/Downloads/test111.pem ubuntu@54.238.134.226 )
+● Location of file + public ipv4 address ( ssh -i /Users/rishabhraj/Downloads/key name ubuntu@public id )
 
 Finally we will successfully login to the AWS instance .
