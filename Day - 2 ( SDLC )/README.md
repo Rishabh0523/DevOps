@@ -20,7 +20,7 @@ The SDLC model involves six phases or stages while developing any software. SDLC
 
 
 ## Stage-1: Planning and Requirement Analysis
-Planning is a crucial step in everything, just as in software development. In this same stage, requirement analysis is also performed by the developers of the organization. This is attained from customer inputs, and sales department/market surveys. 
+Planning is a crucial step in everything, just as in Software Development. In this same stage, requirement analysis is also performed by the developers of the organization. This is attained from customer inputs, and sales department/market surveys. 
 
 
 ## Stage-2: Defining Requirements
