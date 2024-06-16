@@ -26,7 +26,7 @@ we will download
 ● iTerm  
 
 which is Specially for Macos it work as a Terminal ,
-so to login in this terminal we have to provide the path of our 
+so to login in this Terminal we have to provide the path of our 
 
 ● pem file 
 
